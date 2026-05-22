@@ -1,6 +1,6 @@
 Jogo educativo feito no GDevelop para conscientizar jovens sobre o combate à dengue com diálogos e interações.  Este jogo foi presentado no Siara Tech Summit com mentoria do Sebrae! 
 
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6d539bc5-9aa3-4ca1-93a6-6cde5062d689" />
+<img width="1000" height="570" alt="Image" src="https://github.com/user-attachments/assets/6d539bc5-9aa3-4ca1-93a6-6cde5062d689" />
 
 🎮 JIN contra a Dengue
 
