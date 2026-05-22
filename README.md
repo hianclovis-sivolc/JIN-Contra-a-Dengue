@@ -17,3 +17,5 @@ Um jogo educativo desenvolvido no GDevelop com a missão de combater a dengue at
 
 🧠 Aprendizados e Desafios
 Este projeto foi um grande marco na minha evolução como desenvolvedor e futuro gerente de projetos. Ele me permitiu aplicar na prática os conceitos de lógica de programação para resolver um problema real de saúde pública, além de gerenciar prazos e entregas para a apresentação no Summit.
+
+<img width="1000" height="570" alt="Image" src="https://github.com/user-attachments/assets/190e8769-28ca-4a1e-85d1-37bf1392ca72" />
